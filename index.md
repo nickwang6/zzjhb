@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+致组织策划部全体成员：
 
-You can use the [editor on GitHub](https://github.com/nickwang6/zzjhb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+​	2020年即将收尾，2021即将来临。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+​	在这，不得不向指导老师和你们道歉，组织策划部建设只完成当初设想建设的1/3,我还记得当初部门纳新率是非常低，就是为了保证这支队伍的质量，除部门职事之内，其它的基本没展开，再次表示抱歉。
 
-### Markdown
+​	一周两次培训为期一个月，四次线上培训，从策划书的编写到xmind工具的使用，最重要一点就是要求你们学会独立思考，后再进行整合。近期间，据部长和副部长的反映，你们的策划案编写水平不如之前，很多细节问题暴露，还显的不耐烦，要清楚你们来的目的，为什么来？ 学到了什么？ 自己该怎么做？
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+​	策划书的编写有助于提高你们对Word的熟练，xmind是组织架构工具，可以很好梳理事情，而不显得杂乱，多次的活动总结是为了延伸到你们自己的总结，可以是生活、学习等。我们不怕犯错误，怕的是一直的犯同一类型的错误。我负责的1024程序员活动搞的如此糟糕，但又如何，最重要的是学会总结和找到解决方案。
 
-```markdown
-Syntax highlighted code block
+​	还有一点你们要清楚，理论永远是理论，不去实践都是空，在活动主承担上，我还是没有完全让你们去负责，但这天不会远了，我不知道是我心态浮躁还是什么，你们给我的表现显得疲倦，说句心里话，有些时候真难，显得自己矛盾，有些东西不能强迫但有些事情必须去做。
 
-# Header 1
-## Header 2
-### Header 3
+​	总体上你们还是让我感到自豪，2021年我们继续努力！
 
-- Bulleted
-- List
+​         
 
-1. Numbered
-2. List
+​                                                                                                                                                                     王铭鑫
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nickwang6/zzjhb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+​																																									                                                                                  
